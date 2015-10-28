@@ -275,7 +275,7 @@ a:after {
 
 #headerwrap {
 	background: url(../img/ngo.jpg) no-repeat center top;
-	margin-top: -50px;
+	margin-top: -20px;
 	padding-top:120px;
 	text-align:center;
 	background-attachment: relative;
@@ -415,7 +415,7 @@ a:after {
 /* Section Dividers Backgrounds */
 
 .divider1 {
-	background-image: url('../img/bg/divider1.jpg')
+	background-image: url('../img/bg/3.jpg')
 }
 
 .divider2 {
