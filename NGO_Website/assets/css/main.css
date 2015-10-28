@@ -274,13 +274,13 @@ a:after {
    ========================================================================== */
 
 #headerwrap {
-	background: url(../img/header_bg.jpg) no-repeat center top;
+	background: url(../img/ngo.jpg) no-repeat center top;
 	margin-top: -50px;
 	padding-top:120px;
 	text-align:center;
 	background-attachment: relative;
 	background-position: center center;
-	min-height: 650px;
+	min-height: 750px;
 	width: 100%;
 	
     -webkit-background-size: 100%;
@@ -432,7 +432,7 @@ a:after {
 }
 
 .divider6 {
-	background-image: url('../img/bg/divider6.jpg')
+	background-image: url('../img/bg/smvdu.jpg')
 }
 
 
